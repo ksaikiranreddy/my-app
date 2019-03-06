@@ -1,0 +1,7 @@
+16:39:50.070 [main] INFO  com.mycompany.app.MainAppTest - browser exit
+16:43:22.632 [main] DEBUG com.mycompany.app.MainAppTest - setting chrome driver
+16:43:22.652 [main] ERROR com.mycompany.app.MainAppTest - cannot locate element
+16:43:25.001 [main] INFO  com.mycompany.app.MainAppTest - browser exit
+16:44:21.602 [main] DEBUG com.mycompany.app.MainAppTest - setting chrome driver
+16:44:21.626 [main] INFO  com.mycompany.app.MainAppTest - testing test2
+16:44:21.626 [main] ERROR com.mycompany.app.MainAppTest - cannot locate element

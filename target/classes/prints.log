@@ -1,0 +1,5 @@
+02:10:26.426 [main] ERROR com.mycompany.app.MainAppTest - cannot locate element
+02:12:58.662 [main] ERROR com.mycompany.app.MainAppTest - cannot locate element
+02:15:27.044 [main] DEBUG com.mycompany.app.MainAppTest - setting chrome driver
+02:15:27.060 [main] ERROR com.mycompany.app.MainAppTest - cannot locate element
+02:15:29.441 [main] INFO  com.mycompany.app.MainAppTest - browser exit
