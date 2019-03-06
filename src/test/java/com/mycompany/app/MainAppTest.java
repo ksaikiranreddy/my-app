@@ -53,6 +53,12 @@ private static Logger log=LogManager.getLogger(MainAppTest.class.getName());
 		
 	}
 	
+	@Test
+	public void Test4()
+	{
+		System.out.println("Test4");
+	}
+	
 	@AfterTest
 	public void exitBrowser()
 	{
